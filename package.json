@@ -1,0 +1,19 @@
+{
+  "name": "managing_files_with_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asynchronous.read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sibarra96/managing_Files_With_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sibarra96/managing_Files_With_NodeJS/issues"
+  },
+  "homepage": "https://github.com/Sibarra96/managing_Files_With_NodeJS#readme"
+}
