@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sibarra96/managing_Files_With_NodeJS/issues"
   },
-  "homepage": "https://github.com/Sibarra96/managing_Files_With_NodeJS#readme"
+  "homepage": "https://github.com/Sibarra96/managing_Files_With_NodeJS#readme",
+  "dependencies": {
+    "camelcase": "^5.3.1"
+  }
 }
